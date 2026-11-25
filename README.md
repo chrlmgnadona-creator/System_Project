@@ -4,4 +4,4 @@ Members:
   
 - Sane Pajanustan
   
-- Jhon Concord Sevillano 
+- Jhon Concord Sevillano
